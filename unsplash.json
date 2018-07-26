@@ -1,10 +1,10 @@
 {
-   "unsplash": [
+   "wallpapers": [
       {
-         "author": "Subham Saha",
-         "url": "https://raw.githubusercontent.com/subhamsaha2888/wallpaper/master/colors1.jpg",
-         "name": "Colors1",
-         "thumbnail": "https://github.com/subhamsaha2888/wallpaper/raw/master/colors1_thumb.jpg"
+         "author": "Unsplash",
+         "url": "https://raw.githubusercontent.com/subhamsaha2888/Unsplash/master/Clouds.jpg",
+         "name": "Clouds",
+         "thumbnail": "https://github.com/subhamsaha2888/Unsplash/blob/master/Clouds.jpg"
       },
       {
          "author": "Subham Saha",
@@ -20,7 +20,7 @@
       },
       {
          "author": "Subham Saha",
-         "url": "https://raw.githubusercontent.com/subhamsaha2888/Unsplash/master/Clouds.jpg",
+         "url": "https://raw.githubusercontent.com/subhamsaha2888/wallpaper/master/landscape.jpg",
          "name": "Landscape",
          "thumbnail": "https://github.com/subhamsaha2888/wallpaper/raw/master/landscape_thumb.jpg"
       },
@@ -31,6 +31,12 @@
          "thumbnail": "https://github.com/subhamsaha2888/wallpaper/raw/master/owl_thumb.jpg"
       },
       {
+         "author":"Subham Saha",
+         "url":"https://raw.githubusercontent.com/subhamsaha2888/wallpaper/master/scene.jpg",
+         "name":"Scene",
+         "thumbnail":"https://github.com/subhamsaha2888/wallpaper/raw/master/scene_thumb.jpg"
+      },
+{
          "author":"Subham Saha",
          "url":"https://raw.githubusercontent.com/subhamsaha2888/wallpaper/master/scene.jpg",
          "name":"Scene",
